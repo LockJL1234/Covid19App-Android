@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable-anydpi/ic_baseline_email_24_dark.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable-anydpi/ic_baseline_numbers_24_dark.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_bottom.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_button_rounded.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_button_rounded_focused.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_button_rounded_pressed.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/bg_top.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/buttonlayout.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/custom_input.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/gradient_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_leaderboard_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_numbers_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.221875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_baseline_school_24_dark.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_email.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/item_selector.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/layout_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/question_mark.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/quiz_option_btn_layout.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/quiz_progresbar.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/drawable/upper_rounded.xml" value="0.3828125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/font/heebo.xml" value="0.396875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/font/momcakebold.xml" value="0.396875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/font/raleway_bold.xml" value="0.396875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/font/raleway_light.xml" value="0.32564102564102565" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/font/raleway_medium.xml" value="0.396875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/Checklist_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/checklist_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/covid19_row.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/covid19_row_item.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_detail_vac_side.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_symptom.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_trans.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_vaccine.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_details_variant.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_info_row_item.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/cv19_information_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_checklist.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_cv19stats.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_homepage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_info.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_leaderboard.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_news.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_quiz.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/fragment_scoreboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/homepage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/homepage_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/homepage_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/leaderboard_row_item.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/login.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/login_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/quiz_activity.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/quiz_start_activity.xml" value="0.3654891304347826" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/register_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/score_bottom_sheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/layout/update_profile_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/checklist_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_about_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_side_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_symptoms_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_trans_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_vaccine_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_detail_variant_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/cv19_source_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Covid19App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.75" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

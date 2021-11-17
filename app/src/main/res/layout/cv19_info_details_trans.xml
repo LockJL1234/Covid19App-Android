@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Cv19InfoDetails"
+    tools:showIn="@layout/cv19_info_details_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/ScrollContentHeading"
+            android:text="@string/cv19_trans_title" />
+
+        <TextView
+            style="@style/ScrollContentHeading"
+            android:text="@string/cv19_trans_head" />
+
+        <TextView
+            style="@style/ScrollContent"
+            android:text="@string/cv19_trans_content" />
+
+        <TextView
+            style="@style/ScrollContentHeading"
+            android:text="@string/cv19_prevent_head"/>
+
+        <TextView
+            style="@style/ScrollContent"
+            android:text="@string/cv19_prevent_content" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

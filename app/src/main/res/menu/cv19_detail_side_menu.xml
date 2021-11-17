@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_menu_side">
+        <item
+            android:id="@+id/more_about_side"
+            android:title="@string/more_about_side" />
+        <item
+            android:id="@+id/nearby_hospital_side"
+            android:title="@string/nearby_hospital"/>
+    </group>
+
+</menu>

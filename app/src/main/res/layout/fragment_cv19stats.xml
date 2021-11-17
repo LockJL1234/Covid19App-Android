@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CV19StatsFragment">
+
+    <TextView
+        android:id="@+id/date_source"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:text="=_"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/covid19_stat_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/date_source"
+        android:padding="@dimen/activity_vertical_margin"
+        android:scrollbars="vertical" />
+
+    <ProgressBar
+        android:id="@+id/cv19_progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

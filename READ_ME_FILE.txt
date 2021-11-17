@@ -1,0 +1,1 @@
+Change the jdk version to 11 version 11.0.10 in the Android Studio.

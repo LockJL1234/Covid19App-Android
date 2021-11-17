@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_menu_trans">
+        <item
+            android:id="@+id/more_about_trans"
+            android:title="@string/more_about_trans" />
+
+        <item
+            android:id="@+id/more_about_prevent"
+            android:title="@string/more_about_prevent" />
+
+        <item
+            android:id="@+id/face_mask"
+            android:title="@string/purchase_face_mask"/>
+    </group>
+
+</menu>

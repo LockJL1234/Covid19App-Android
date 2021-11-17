@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_app"
+    app:startDestination="@id/cv19StatsFragment">
+
+    <fragment
+        android:id="@+id/cv19StatsFragment"
+        android:name="com.example.covid19app.CV19StatsFragment"
+        android:label="fragment_homepage"
+        tools:layout="@layout/fragment_cv19stats" />
+    <fragment
+        android:id="@+id/leaderboardFragment"
+        android:name="com.example.covid19app.LeaderboardFragment"
+        android:label="fragment_scoreboard"
+        tools:layout="@layout/fragment_leaderboard" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.covid19app.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item android:state_checked="true"-->
+<!--        android:color="@color/teal_700"/>-->
+
+<!--    <item android:state_pressed="true"-->
+<!--        android:color="@color/teal_700"/>-->
+
+<!--    <item android:color="@color/teal_200"/>-->
+
+    <item android:state_pressed="true"
+        android:drawable="@drawable/bg_button_rounded_pressed"/> <!-- pressed -->
+    <item android:drawable="@drawable/bg_button_rounded"/> <!-- default -->
+
+</selector>

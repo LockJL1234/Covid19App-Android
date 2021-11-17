@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/quiz_background"
+    tools:context=".Quiz"
+    android:id="@+id/quiz_layout">
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/heebo"
+        android:gravity="center"
+        android:text="Question"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25dp" />
+
+    <LinearLayout
+        android:id="@+id/ll_progress_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/quizLinear"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="15dp">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:indeterminate="false"
+            android:max="8"
+            android:progressDrawable="@drawable/quiz_progresbar"
+            android:minHeight="50dp"
+            android:progress="0" />
+
+        <TextView
+            android:id="@+id/progressNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textColorHint="#7A8089"
+            android:textSize="14sp"
+            tools:text="0/8" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/quizLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/option1_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/quiz_option_height"
+            android:layout_marginVertical="5dp"
+            android:layout_marginHorizontal="25dp"
+            android:backgroundTint="@color/teal_700"
+            android:fontFamily="@font/heebo"
+            android:padding="4dp"
+            android:textSize="18sp"
+            tools:text="Option 1" />
+
+        <Button
+            android:id="@+id/option2_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/quiz_option_height"
+            android:layout_marginVertical="5dp"
+            android:layout_marginHorizontal="25dp"
+            android:backgroundTint="@color/teal_700"
+            android:fontFamily="@font/heebo"
+            android:padding="4dp"
+            android:textSize="18sp"
+            tools:text="Option 2" />
+
+        <Button
+            android:id="@+id/option3_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/quiz_option_height"
+            android:layout_marginVertical="5dp"
+            android:layout_marginHorizontal="25dp"
+            android:backgroundTint="@color/teal_700"
+            android:fontFamily="@font/heebo"
+            android:padding="4dp"
+            android:textSize="18sp"
+            tools:text="Option 3" />
+
+        <Button
+            android:id="@+id/option4_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/quiz_option_height"
+            android:layout_marginVertical="5dp"
+            android:layout_marginHorizontal="25dp"
+            android:backgroundTint="@color/teal_700"
+            android:fontFamily="@font/heebo"
+            android:padding="4dp"
+            android:textSize="18sp"
+            tools:text="Option 4" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

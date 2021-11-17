@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Covid19App</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+    <string name="or">OR</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="register_page">Click Here to Register</string>
+    <string name="login_page">Already Registered? Click Here to Login</string>
+    <string name="reset_password">Forgot Password? Click to Reset</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_profile">User Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="school">School:</string>
+    <string name="age">Age:</string>
+    <string name="age_val">Age value</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="number_of_questions">Number of Questions</string>
+    <string name="return_quiz_start">Return to Quiz Starting Page</string>
+    <string name="quiz_instruction">CLICK THE BUTTON TO START THE QUIZ</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="leaderboard">Quiz Leaderboard</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="items_to_bring">Items To Bring:</string>
+    <string name="cv19_info_image">Covid-19 Information Image</string>
+    <string name="more_about_cv19">More About Covid-19</string>
+    <string name="more_about_variant">More About Covid-19 Variant</string>
+    <string name="more_about_trans">More About Covid-19 Transmission</string>
+    <string name="more_about_prevent">More About Covid-19 Prevention</string>
+    <string name="more_about_symptoms">More About Covid-19 Symptoms</string>
+    <string name="nearby_hospital">Nearby Hospital</string>
+    <string name="more_about_side">More About Covid-19 Side Effects</string>
+    <string name="more_about_vaccine">More About Covid-19 Vaccine</string>
+    <string name="purchase_face_mask">Purchase Face Mask</string>
+
+    <!-- Covid 19 Statistics -->
+    <string-array name="Covid19_Desc_Total">
+        <item>Total Cases</item>
+        <item>Total Deaths</item>
+        <item>Total Recovery</item>
+        <item>Total Vaccination</item>
+        <item>Active Cases</item>
+    </string-array>
+
+    <string-array name="Covid19_Desc_Daily">
+        <item>New Daily Cases</item>
+        <item>New Daily Deaths</item>
+        <item>New Daily Recovery</item>
+        <item>New Daily Vaccination</item>
+        <item>Daily Active Cases Decrease</item>
+    </string-array>
+
+    <string-array name="Essential_Items">
+        <item>Hand Sanitizer</item>
+        <item>Face Mask</item>
+        <item>Face Shield</item>
+        <item>Disinfectant</item>
+        <item>Tissues</item>
+        <item>Antibacterial Wipes</item>
+    </string-array>
+
+    <string-array name="Covid19_information_title">
+        <item>About Covid-19</item>
+        <item>Covid-19 Variant</item>
+        <item>Covid-19 Transmission and Prevention</item>
+        <item>Covid-19 Symptoms</item>
+        <item>About Covid-19 Vaccine</item>
+        <item>Covid-19 Vaccine Side Effects</item>
+    </string-array>
+
+    <string-array name="Covid19_information_desc">
+        <item>Learn more about the Covid-19 virus...</item>
+        <item>Learn about the different Covid-19 variants...</item>
+        <item>Learn about the transmission and prevention of Covid-19...</item>
+        <item>Learn about the symptoms of Covid-19...</item>
+        <item>Learn more about the Covid-19 vaccine...</item>
+        <item>Learn about the side effects of Covid-19 vaccine...</item>
+    </string-array>
+
+    <array name="Covid19_information_images">
+        <item>@drawable/virus</item>
+        <item>@drawable/variants</item>
+        <item>@drawable/transmission</item>
+        <item>@drawable/symptoms</item>
+        <item>@drawable/vaccine_info</item>
+        <item>@drawable/side_effect</item>
+    </array>
+
+    <!--About Covid-19-->
+    <string name="about_cv19">About Covid-19</string>
+    <string name="about_cv19_head">An Introduction to Covid-19</string>
+    <string name="about_cv19_content">Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases.
+        Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.\n It was first found in Wuhan, China in December 2019.
+        The name ‘corona’ came from the many crown-like spikes on the surface of the virus.\n
+        Symptoms of Covid-19 usually appear after 2 - 14days after receiving the virus.
+    </string>
+
+    <!--Covid-19 Variant-->
+    <!--&#8226; represents a bullet point in the form of unicode code-->
+    <string name="cv19_variant_head">Introduction to Covid-19 Variants</string>
+    <string name="cv19_variant_content"><font color="#CDDC39"><b>Delta - B.1.617.2\n</b></font>
+        &#8226; First identified: India\n
+        &#8226; Spread: Much faster than other variants\n
+        &#8226; Severe illness and death: May cause more severe cases than the other variants\n
+        &#8226; Treatments: Certain monoclonal antibody treatments are less effective against this variant.\n\n
+
+        <font color="#CDDC39"><b>Alpha - B.1.1.7\n</b></font>
+        &#8226; First identified: UK\n
+        &#8226; Severity: the mortality hazard ratio associated with infection with the variant compared with infection
+        with previously circulating variants was 1.64 in patients in the community.\n\n
+
+        <font color="#CDDC39"><b>Beta - B.1.351\n</b></font>
+        &#8226; First identified: South Africa\n
+        &#8226; Severity: The variant was associated with in-hospital mortality that was 20% higher in the second wave in South Africa than in the first wave.\n\n
+
+
+        <font color="#CDDC39"><b>Gamma - P.1\n</b></font>
+        &#8226; First identified: Brazil\n
+        &#8226; Severity: No strong evidence for an enhanced lethality\n
+        &#8226; Spread: 2.5times more contagious than original coronavirus\n\n
+    </string>
+
+    <!--Covid-19 Transmission and Prevention-->
+    <string name="cv19_trans_title">Covid-19 Transmission and Prevention</string>
+    <string name="cv19_trans_head">Covid-19 Transmission</string>
+    <string name="cv19_trans_content">&#8226; The virus travels in respiratory droplets when an infected person coughs, sneezes,
+        talks, sings or breathes near you (within six feet).\n
+        &#8226; When the virus travels in small respiratory droplets that linger in the air for minutes to hours from an infected person who is more
+                than six feet away or has since left the space. This method of spread is more likely to occur in enclosed spaces with poor ventilation.\n
+        &#8226; From close contact (touching, shaking hands) with an infected person.\n
+        &#8226; By touching eyes, mouth, nose without washing hands after having contact with the virus.</string>
+    <string name="cv19_prevent_head">Covid-19 Prevention</string>
+    <string name="cv19_prevent_content">&#8226; Wear a mask in public area.\n
+        &#8226; Choose open, well-ventilated spaces over closed ones. Open a window if indoors.\n
+        &#8226; Stay home if you feel unwell.\n
+        &#8226; Sanitize or wash hands frequently.\n
+        &#8226; Maintain at least 1 metre of distance.\n
+        &#8226; Get vaccinated.\n
+    </string>
+
+    <!--Covid-19 Symptoms-->
+    <string name="cv19_symptoms_head">Covid-19 Symptoms</string>
+    <string name="cv19_symptoms_content">&#8226; Congestion\n&#8226; Cough\n&#8226; Diarrhea\n&#8226; Fever or chills.\n&#8226; Headache&#8226; Loss of taste or smell\n
+        &#8226; Muscle or body aches.\n&#8226; Nausea or vomiting\n&#8226; Shortness of breath or difficulty breathing.\n&#8226; Sore throat\n&#8226; Tiredness.
+    </string>
+
+    <!--Covid-19 Vaccination Information-->
+    <string name="cv19_vaccine_info_head">Covid-19 Vaccination Information</string>
+    <string name="cv19_vaccine_info_content"><font color="#CDDC39"><b>mRNA\n</b></font>
+        &#8226; How it reacts: mRNA sequence that enters individual cell and produce the specific virus protein\n
+        &#8226; Function: mRNA molecule stimulate the immune system to recognise the virus protein\n
+        &#8226; Advantages: Simple, Quick to produce, Does not require living component, Triggers an adaptive response\n
+        &#8226; Challenges: Require extremely cold storage conditions\n
+        &#8226; Examples: Moderna, Pfizer/BioNTech\n
+
+        <font color="#CDDC39"><b>\nViral Vector\n</b></font>
+        &#8226; How it reacts: Transports the antigen genetic code. Human cells reproduce targeted protein\n
+        &#8226; Function: Stimulates the immune system by introducing a safe viral vector into the body\n
+        &#8226; Advantages: Proven technology, Triggers an adaptive response\n
+        &#8226; Challenges: Complex manufacturing process, Need to ensure the viral vector is safe to be used\n
+        &#8226; Examples: AstraZeneca, Sputnik V\n
+
+        <font color="#CDDC39"><b>\nInactive Virus\n</b></font>
+        &#8226; How it reacts: Virus that has been killed through high heat/radiation\n
+        &#8226; Function: Virus that has been killed entering the human body to trigger the immune system\n
+        &#8226; Advantages: Proven technology, Suitable for those with weak immune system, Easy to produce\n
+        &#8226; Challenges: High manufacturing cost\n
+        &#8226; Examples: Sinovac V\n
+
+        <!--Unicode &#38; represents the symbol "&" in unicode form-->
+        <font color="#CDDC39"><b>\nVaccination Approved by World Health Organization (WHO)\n</b></font>
+        &#8226; Pfizer-BioNTech\n&#8226; Moderna\n&#8226; Johnson &#38; Johnson\n&#8226; Sinovac\n&#8226; Oxford/AstraZeneca\n&#8226; Serum Institute of India\n
+        &#8226; Sinopharm (Beijing)\n
+
+        <font color="#CDDC39"><b>\nVaccination Efficacy\n</b></font>
+        &#8226; Moderna: 95% Efficacy Rate\n
+        &#8226; Pfizer/BioNTech: 95% Efficacy Rate\n
+        &#8226; AstraZeneca: 60-90% Efficacy Rate\n
+        &#8226; Sinovac:  51% Efficacy Rate\n
+    </string>
+
+    <!--Covid-19 Vaccination Side Effects-->
+    <string name="cv19_vaccine_side_head">Covid-19 Vaccination Side Effects</string>
+    <string name="cv19_vaccine_side_content"><font color="#CDDC39"><b>Side Effect (arm)\n</b></font>
+        &#8226; Pain\n&#8226; Redness\n&#8226; Swelling\n
+        <font color="#CDDC39"><b>\nSide Effect (body)\n</b></font>
+        &#8226; Tiredness\n&#8226; Headache\n&#8226; Muscle pain\n&#8226; Chills\n&#8226; Fever\n&#8226; Nausea\n
+    </string>
+
+</resources>
