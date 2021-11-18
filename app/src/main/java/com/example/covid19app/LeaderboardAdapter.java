@@ -39,7 +39,7 @@ public class LeaderboardAdapter extends FirebaseRecyclerAdapter<LeaderboardData,
     @Override
     public void onBindViewHolder(@NonNull LeaderboardViewHolder holder, int position, @NonNull LeaderboardData model) {
         holder.view1.setText(model.getUsername());
-        holder.view2.setText(model.getScore());
+        holder.view2.setText(String.valueOf(model.getScore()));
     }
 
     //get each component in row item of recyclerview

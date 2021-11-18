@@ -159,7 +159,7 @@ public class Quiz extends AppCompatActivity {
                 //user quiz score will be recorded if user quiz score does not exists in realtime database
                 if (!snapshot.exists()) {
                     reference.child("username").setValue(String.valueOf(username));
-                    reference.child("score").setValue(String.valueOf(currentScore));
+                    reference.child("score").setValue(currentScore);
                 }
                 //if user quiz score exists in realtime database, compare previous score with current score
                 else {
@@ -168,7 +168,7 @@ public class Quiz extends AppCompatActivity {
                     //compare previous score with current score
                     if (ldboardScore != null && currentScore > Integer.parseInt(ldboardScore)) {
                         reference.child("username").setValue(String.valueOf(username));
-                        reference.child("score").setValue(String.valueOf(currentScore));
+                        reference.child("score").setValue(currentScore);
                     }
                 }
             }

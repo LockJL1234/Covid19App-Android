@@ -2,22 +2,23 @@ package com.example.covid19app;
 
 //model class for leaderboard data
 public class LeaderboardData {
-    private String score, username;
+    private String username;
+    private int score;
 
     //default constructor for Firebase
     public LeaderboardData() {
     }
 
-    public LeaderboardData(String score, String username) {
+    public LeaderboardData(int score, String username) {
         this.score = score;
         this.username = username;
     }
 
-    public String getScore() {
+    public int getScore() {
         return score;
     }
 
-    public void setScore(String score) {
+    public void setScore(int score) {
         this.score = score;
     }
 
