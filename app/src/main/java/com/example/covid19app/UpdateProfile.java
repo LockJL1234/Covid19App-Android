@@ -76,7 +76,7 @@ public class UpdateProfile extends AppCompatActivity {
                 uname = String.valueOf(dataSnapshot.child("username").getValue());
                 email = String.valueOf(dataSnapshot.child("email").getValue());
                 age = String.valueOf(dataSnapshot.child("age").getValue());
-                school = String.valueOf(dataSnapshot.child("email").getValue());
+                school = String.valueOf(dataSnapshot.child("school").getValue());
                 usernameText.setText(uname);
                 emailText.setText(email);
                 ageText.setText(age);
