@@ -8,6 +8,8 @@ Java is the programming language used for developing the backend of the applicat
 
 Firebase is integrated into the application to use the function provided by Firebase such as Firebase Authentication, Realtime Database, Firebase Storage, and Cloud Messaging.
 
+---
+
 The Application has the following function:-
 - Display Real-time Updated Covid-19 Statistics (Malaysia)
 - Quiz Function for Covid-19 information
