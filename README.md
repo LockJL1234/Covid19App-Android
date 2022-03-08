@@ -15,4 +15,6 @@ The Application has the following function:-
 - Provide information regarding the Covid-19 vaccine
 - Checklist for bringing essential items along when going out
 
+---
+
 NOTE: Change the jdk version in your Android Studio to **jdk 11** (**version 11.0.10**).
